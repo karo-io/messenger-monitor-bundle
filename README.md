@@ -1,3 +1,8 @@
+Stalled
+---
+Work on this repo here is currently stalled. You might want to check out https://github.com/nikophil/messenger-monitor-bundle where @nikophil is putting more energy into it
+
+
 Messenger Monitor
 ---
 
